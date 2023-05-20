@@ -14,3 +14,10 @@ Statement : Perform Exploratory Data Analysis on dataset "Sample Store"
 
 Create dashboard using this dataset
 This project is in Power BI.
+
+Task-4
+
+Statement : Perform Exploratory Data Analysis on dataset "Global Terrorism"
+
+Create dashboard using this dataset
+This project is in Power BI.
